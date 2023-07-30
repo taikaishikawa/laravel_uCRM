@@ -163,7 +163,9 @@ return [
         'start_time' => '開始時間',
         'end_time' => '終了時間',
         'max_people' => '定員',
-        'image1' => '1枚目の画像'
+        'image1' => '1枚目の画像',
+        'title' => 'タイトル',
+        'content' => '本文'
     ],
 
 ];
