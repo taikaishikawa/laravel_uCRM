@@ -165,7 +165,9 @@ return [
         'max_people' => '定員',
         'image1' => '1枚目の画像',
         'title' => 'タイトル',
-        'content' => '本文'
+        'content' => '本文',
+        'memo' => 'メモ',
+        'price' => '料金',
     ],
 
 ];
